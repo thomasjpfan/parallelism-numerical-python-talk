@@ -13,6 +13,16 @@ This talk on Github: github.com/thomasjpfan/parallelism-numerical-python-talk</a
 
 ---
 
+class: chapter-slide
+
+# 🔒 Global Interpreter Lock (GIL)? 🔒
+
+---
+
+![:scale 100%](images/python-libraries.png)
+
+---
+
 # My Perspective
 
 .g[
