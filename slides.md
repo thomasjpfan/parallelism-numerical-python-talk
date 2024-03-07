@@ -841,7 +841,7 @@ class: top
 
 ---
 
-<br>
+class: center
 
 ## Not a full solution 🩹
 
@@ -917,6 +917,9 @@ class: top
 
 ---
 
+![:scale 100%](images/python-libraries.png)
+
+---
 
 class: center
 
